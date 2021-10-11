@@ -21,7 +21,7 @@
   ```
   És a dir, quan un departament té un empleat de Madrid i un d’una altra ciutat.
 
-- Per aconseguir que "El resultat no ha d'incloure aquells departaments que no tenen cap empleat", penseu que si feu una join
+- Per aconseguir que "El resultat no ha d'incloure aquells departaments que no tenen cap empleat", penseu que si feu una join d'aquest estil (no necessàriament aquesta):
   ``` sql
   DEPARTAMENTS * EMPLEATS
   ```
