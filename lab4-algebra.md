@@ -1,9 +1,9 @@
-#Àlgebra relacional
+# Àlgebra relacional
 
-Pregunta 1:
+## Pregunta 1:
 - Fàcil, nivell tontico
 
-Pregunta 2:
+## Pregunta 2:
 - Molta gent selecciona els empleats que viuen a Madrid
   A=EMPLEATS(CIUTAT_EMPL = 'MADRID')
   I fa la join amb DEPARTAMENTS
@@ -15,4 +15,6 @@ Pregunta 2:
   És a dir, quan un departament té un empleat de Madrid i un d’una altra ciutat.
 - Per aconseguir que "El resultat no ha d'incloure aquells departaments que no tenen cap empleat", penseu que si feu una join DEPARTAMENTS*EMPLEATS, els departaments que no tenen empleats no fan match amb cap empleat, i per tant no apareixen en el resultat.
 
-Pregunta 3:
+## Pregunta 3:
+
+## Pregunta 4:
